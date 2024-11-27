@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\LR11.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7503FD-2542-4D42-8DEB-8146F2A965E0}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\hp\\source\\repos\\LR11.2\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA7503FD-2542-4D42-8DEB-8146F2A965E0}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91971BF1-E6B9-4545-9E17-E2A53EE85DF6}|LR11.2\\LR11.2.vcxproj|C:\\Users\\hp\\source\\repos\\LR11.2\\LR11.2\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{91971BF1-E6B9-4545-9E17-E2A53EE85DF6}|LR11.2\\LR11.2.vcxproj|solutionrelative:LR11.2\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91971BF1-E6B9-4545-9E17-E2A53EE85DF6}|LR11.2\\LR11.2.vcxproj|C:\\Users\\hp\\source\\repos\\LR11.2\\LR11.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91971BF1-E6B9-4545-9E17-E2A53EE85DF6}|LR11.2\\LR11.2.vcxproj|solutionrelative:LR11.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LR11.2\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LR11.2\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T12:54:37.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Text.txt",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LR11.2\\LR11.2\\Text.txt",
+              "RelativeDocumentMoniker": "LR11.2\\Text.txt",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LR11.2\\LR11.2\\Text.txt",
+              "RelativeToolTip": "LR11.2\\Text.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-27T10:53:51.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LR11.2\\LR11.2\\Source.cpp",
+              "RelativeDocumentMoniker": "LR11.2\\Source.cpp",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LR11.2\\LR11.2\\Source.cpp",
+              "RelativeToolTip": "LR11.2\\Source.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T10:52:38.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
